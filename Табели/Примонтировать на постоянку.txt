@@ -1,0 +1,2 @@
+# mount /dev/sda1 /home/samba/admin
+# tail -1 /etc/mtab >> /etc/fstab
