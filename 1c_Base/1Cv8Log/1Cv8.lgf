@@ -10,4 +10,5 @@
 {0},1},
 {13,1,1},
 {4,"_$Session$_.Start",2},
-{4,"_$Session$_.Finish",3}
+{4,"_$Session$_.Finish",3},
+{4,"_$InfoBase$_.ConfigUpdate",4}
