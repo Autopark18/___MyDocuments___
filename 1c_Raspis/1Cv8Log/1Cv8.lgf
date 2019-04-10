@@ -27,4 +27,5 @@
 {5,25be200d-920b-4f00-b000-177c8ebfda04,"РегистрСведений.Расписания",3},
 {4,"_$Job$_.Start",11},
 {4,"_$Job$_.Succeed",12},
-{4,"_$Transaction$_.Rollback",13}
+{4,"_$Transaction$_.Rollback",13},
+{4,"_$PerformError$_",14}
