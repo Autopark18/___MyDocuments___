@@ -16,4 +16,13 @@
 {4,"_$InfoBase$_.ConfigUpdate",4},
 {4,"_$InfoBase$_.DBConfigUpdate",5},
 {4,"_$Transaction$_.Begin",6},
-{4,"_$Transaction$_.Commit",7}
+{4,"_$Transaction$_.Commit",7},
+{4,"_$InfoBase$_.PredefinedDataUpdate",8},
+{5,67f3bbd6-e358-4be5-bec2-5ceb379b5226,"",1},
+{4,"_$Data$_.New",9},
+{5,67f3bbd6-e358-4be5-bec2-5ceb379b5226,"Справочник.Автомобили",1},
+{4,"_$Job$_.Start",10},
+{4,"_$Job$_.Succeed",11},
+{4,"_$Data$_.Update",12},
+{5,8c34fd71-56f5-4be2-a4d6-e7077c5c66e5,"",2},
+{5,8c34fd71-56f5-4be2-a4d6-e7077c5c66e5,"Справочник.Водители",2}
