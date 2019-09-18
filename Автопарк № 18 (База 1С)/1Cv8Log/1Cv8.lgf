@@ -48,4 +48,5 @@
 {5,fa4637e0-d373-42f2-8111-ec25186b7caf,"",6},
 {5,fa4637e0-d373-42f2-8111-ec25186b7caf,"Справочник.Остановки",6},
 {5,7c2ec260-02e3-4108-a062-1b7db449ae29,"Константа.ШиринаТабло",7},
-{4,"_$InfoBase$_.DBConfigUpdateError",17}
+{4,"_$InfoBase$_.DBConfigUpdateError",17},
+{4,"_$Data$_.PredefinedDataInitialization",18}
