@@ -49,4 +49,10 @@
 {5,fa4637e0-d373-42f2-8111-ec25186b7caf,"Справочник.Остановки",6},
 {5,7c2ec260-02e3-4108-a062-1b7db449ae29,"Константа.ШиринаТабло",7},
 {4,"_$InfoBase$_.DBConfigUpdateError",17},
-{4,"_$Data$_.PredefinedDataInitialization",18}
+{4,"_$Data$_.PredefinedDataInitialization",18},
+{4,"_$Transaction$_.Rollback",19},
+{4,"_$Data$_.DeletePredefinedData",20},
+{5,bff4fa96-df6c-45ae-8a00-22872a192f76,"",8},
+{5,bff4fa96-df6c-45ae-8a00-22872a192f76,"Справочник.Персонал",8},
+{5,627d7f05-0510-4fec-b8bf-ea8e33e859ed,"",9},
+{5,627d7f05-0510-4fec-b8bf-ea8e33e859ed,"Справочник.Должности",9}
